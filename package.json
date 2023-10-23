@@ -7,10 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rahamane BODA [##Block67]",
   "license": "ISC",
   "dependencies": {
-    "@node-lightning/invoice": "^0.28.0",
     "axios": "^1.5.1"
   }
 }
